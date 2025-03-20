@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        Project:Recipe Book
+    </title>
+    <body style="background-color:#e2c2c7";>
+        <h1><ul><u>PERFECT OMELETTE</u></ul></h1> 
+        <P>  Omelettes are infinitely customizable! This recipe is perfect for busy weekdays, but below we offer a few variations that can be delicious when you have some more time to play around in the kitchen.</P>
+    <h2>Ingredients:</h2>
+    <ol>2 eggs<br>
+        1 tbsp (15 mL) water<br>
+        Pinch salt<br>
+        Pinch pepper<br>
+        1 tbsp (15 mL) butter or oil<br>
+        Filling ingredients
+    </ol>
+    <h2>Instructions:</h2>
+    <h3>Step 1</h3>
+    <ol>Whisk eggs, water, salt and pepper.</ol>
+
+    <h3>Step 2</h3>
+       <ol> Melt butter in an 8-inch (20 cm) nonstick frying pan over medium heat. Pour in egg mixture. As eggs set around edge of pan, with spatula, gently push cooked portions toward centre of skillet. Tilt and rotate skillet to allow uncooked egg to flow into empty spaces.</ol>
+    <h3>Step 3</h3>
+    <ol>When eggs are almost set on surface but still look moist, cover half of omelette with filling. Slip spatula under unfilled side; fold over onto filled half.</ol>
+    <h3>Step 4</h3>
+    <ol>Cook for a minute, then slide omelette onto plate.</ol>
+<h2><star>Variations:</point></h2>
+</body>
+</html>
