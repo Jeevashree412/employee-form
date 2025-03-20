@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html >
+<head>
+<title>Employee form </title>
+</head>
+<body>
+    <form action:"submit.php"method="past">
+        <label for="name">First name:</label>
+        <input type="text"id="name"name="name"required><br><br>
+        <label for="name">Last name:</label>
+        <input type="text"id="name"name="name"required><br><br>        <label for="e-mail">e-mail:</label>
+        <input type="e-mail"id="e-mail"name="e-mail"required><br><br>
+        <label for="password">password:</label>
+        <input type="password"id="password"name="password"required><br><br>
+        <label for="Gender">Gender:</label>
+        <input type="radio"id="Male"name="Gender"value="Male">
+        <label for="Male">Male</label>
+        <input type="radio"id="Female"name="Gender"value="Female">
+        <label for="Female">Female</label> <br><br>       
+        <label for="DOB">DOB:</label>
+        <input type="date"id="DOB"name="DOB"required><br><br>
+        <label for="Address">Address:</label>
+        <textarea id="Address"name="Address"required></textarea><br><br> 
+        <label for="City">City:</label>
+        <input type="text"id="City"name="City"required><br><br>
+        <label for="State">State:</label>
+        <input type="text"id="State"name="State"required><br><br>
+       <label for="Country">Country:</label>
+        <input type="text"id="Country"name="Country"required><br><br>
+        <label for="Pincode">Pincode:</label>
+        <input type="number"id="Pincode"name="Pincode"required><br><br>
+        <label for="Contact">Contact:</label>
+        <input type="number"id="Contact"name="Contact"required><br><br>
+        <label for="Qualification">Qualification:</label>
+        <input type="text"id="Qualification"name="Qualification"required><br><br>
+        <label for="Experience">Experience:</label>
+        <in
+        put type="number"id="Experience"name="Experience"required><br><br>
+        <label for="Designation">Designation:</label>
+        <input type="text"id="Designation"name="Designation"required><br><br>
+        <label for="Department">Department:</label>
+        <input type="text"id="Department"name="Department"required><br><br>
+        <label for="Salary">Salary:</label>
+        <input type="number"id="Salary"name="Salary"required><br><br>
+        <label for="Joining">Joining:</label>
+        <input type="date"id="Joining"name="Joining"required><br><br>
+        <label for="Leaving">Leaving:</label>
+        <input type="date"id="Leaving"name="Leaving"required><br><br>
+        <label for ="Message">Message:</label>
+        <textarea id="Message"name="Message"required></textarea><br><br> 
+        <input type="submit"value="submit">
+        <input type="reset"value="reset">
+    </form> 
+</body>
+</html>
